@@ -1,6 +1,6 @@
 <hr />
 <details>
-  <summary><strong>Dia 1</strong></summary>
+  <summary><strong>Dia 1 - Fundamentos do NodeJS</strong></summary>
   <br />
   
   - [x]  Boas Vindas ao NLW05
