@@ -1,13 +1,14 @@
 import express from "express";
+import "./database";
 
 const app = express();
 
 /**
- * GET = Buscas
- * POST = Criação
- * PUT = Alteração
- * DELETE = Deletar
- * PATCH = Alterar uma informação especifica
+ * GET      = Buscas
+ * POST     = Criação
+ * PUT      = Alteração
+ * DELETE   = Deletar
+ * PATCH    = Alterar uma informação especifica
  */
 
 app.get("/", (request, response) => {
