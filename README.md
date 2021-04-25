@@ -1,4 +1,5 @@
 <hr />
+
 <details>
   <summary><strong>Dia 1 - Fundamentos do NodeJS</strong></summary>
   <br />
@@ -30,4 +31,33 @@
     - [x]  O que veremos amanhã
 
 </details>
+
+<hr />
+
+<details>
+  <summary><strong>Dia 2 - Iniciando com o Banco de Dados</strong></summary>
+  <br />
+  
+- [x]  O que aprendemos ontem
+- [x]  O que veremos hoje
+- [x]  Quais são as formas de trabalhar com Banco de Dados
+- [x]  Configurando o typeorm
+- [x]  O que são migrations
+- [x]  Criando as migrations
+- [x]  Criando as entidades
+- [x]  Criando os repositórios
+- [x]  Criando a rota das configurações
+
+<p align="center">
+  <a href="https://github.com/lucasrmagalhaes/nlw5-nodejs/blob/main/nlw5/bd.png" target="_blank">
+    <img 
+         src="https://github.com/lucasrmagalhaes/nlw5-nodejs/blob/main/nlw5/bd.png" 
+         alt="Banco de Dados" 
+    />
+  </a>
+  <br />
+  <i>Banco de Dados</i>
+</p>
+</details>
+
 <hr />
