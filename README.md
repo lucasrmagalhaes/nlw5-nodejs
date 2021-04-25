@@ -61,3 +61,30 @@
 </details>
 
 <hr />
+
+<details>
+  <summary><strong>Dia 3 - Continuando a Aplicação</strong></summary>
+  <br />
+  
+- [x]  Separar a regra de negócio de settings
+- [x]  Criar estrutura de user
+- [x]  Criar estrutura de messages
+    - [x]  Relacionamento Many To One
+
+</details>
+
+<hr />
+
+<details>
+  <summary><strong>Dia 4 - Trabalhando com Websocket</strong></summary>
+  <br />
+  
+- [x]  O que é Websocket?
+- [x]  Instalando as dependências na aplicação
+- [x]  Configurando websocket
+- [x]  Criar estrutura de connections
+- [x]  Configurando página Atendente HTML
+
+</details>
+
+<hr />
