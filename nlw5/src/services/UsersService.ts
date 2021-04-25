@@ -21,12 +21,17 @@ class UsersService {
         }
 
         const user = this.usersRepository.create({
-            email,
+            email
         });
 
         await this.usersRepository.save(user);
 
-        // Se não existir, salvar no BD
+        return user;
+    }
+
+    async findByEmail(email: string) {
+        const user = await this.usersRepository.findOne({ email });
+      
         return user;
     }
 }
