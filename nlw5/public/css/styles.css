@@ -14,7 +14,7 @@ body {
   width: 153px;
   height: 56px;
 
-  background: #8257e6;
+  background: #0181e9;;
   border-radius: 68px;
   text-align: center;
   color: #fff;
@@ -45,7 +45,7 @@ body {
   width: 320px;
   height: 56px;
 
-  background: #8257e6;
+  background: #0181e9;
   border-radius: 16px 16px 0px 0px;
 
   display: flex;
@@ -104,7 +104,7 @@ body {
 }
 
 .client_message {
-  background: #f2ecfa;
+  background: lightskyblue;
   padding: 20px 10px;
   margin: 10px 0;
   width: 250px;
@@ -114,8 +114,7 @@ body {
 }
 
 .client .message {
-  background: #f2ecfa;
-  /* background: #cecad4; */
+  background: lightskyblue;
   padding: 20px 10px;
   margin: 10px 0;
   width: 250px;
@@ -138,7 +137,7 @@ body {
 
 .admin .message {
   width: 230px;
-  background: #f2ecfa;
+  background: lightgray;
   border-radius: 4px;
   padding: 10px;
   margin-left: 12px;
@@ -209,7 +208,7 @@ input[type="text"]:focus {
   width: 121px;
   height: 40px;
 
-  background: #8257e6;
+  background: #10810c;
   border-radius: 4px;
   color: #fff;
   border: none;
@@ -295,7 +294,7 @@ input[type="text"]:focus {
 
 .admin_message_admin {
   width: 300px;
-  background: #e0e0e0;
+  background: lightgray;
   padding: 10px;
   margin: 12px;
   display: flex;
@@ -312,30 +311,29 @@ input[type="text"]:focus {
 
 .admin_message_client {
   width: 300px;
-  background: #6f5eab;
+  background: lightskyblue;
   padding: 10px;
   margin: 10px;
-  color: #eee;
+  color: rgb(0, 0, 0);
   display: flex;
   flex-direction: column;
-
   border-radius: 10px;
   font-family: "Roboto", sans-serif;
 }
 
 .admin_date {
   font-size: 10px;
-  color: #fff;
+  color: rgb(0, 0, 0);
 }
 
 .in_support {
-  background: #8d7aef;
+  background: #0181e9;
   color: #fff;
   font-size: 17px;
 }
 
 .btn_send {
-  background: #1eb363;
+  background: #10810c;
   color: #eee;
   border: none;
 }
