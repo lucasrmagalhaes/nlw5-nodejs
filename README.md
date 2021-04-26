@@ -1,3 +1,27 @@
+<h1 align="center">NLW#5 - Atendimento ao Cliente :white_check_mark:</h1>
+
+<p align="center">
+  <a href="#" target="_blank">
+    <img 
+         src="https://github.com/lucasrmagalhaes/nlw5-nodejs/blob/main/nlw5/public/images/Cliente.jpg" 
+         alt="Cliente" 
+    />
+  </a>
+  <br />
+  <b><i>Cliente</b></i>
+</p>
+
+<p align="center">
+  <a href="#" target="_blank">
+    <img 
+         src="https://github.com/lucasrmagalhaes/nlw5-nodejs/blob/main/nlw5/public/images/Atendente.jpg" 
+         alt="Atendente" 
+    />
+  </a>
+  <br />
+  <b><i>Atendente</b></i>
+</p>
+
 <hr />
 
 <details>
