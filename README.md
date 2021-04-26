@@ -88,3 +88,18 @@
 </details>
 
 <hr />
+
+<details>
+  <summary><strong>Dia 5 - Finalizando o Projeto</strong></summary>
+  <br />
+  
+- [x]  Concluir página de atendimento
+- [x]  Criar os eventos para atendimento
+- [x]  Concluir página de cliente
+- [x]  Criar evento para cliente
+- [x]  Adicionar admin a conexão
+- [x]  Encerramento
+
+</details>
+
+<hr />
