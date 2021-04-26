@@ -1,7 +1,7 @@
 <h1 align="center">NLW#5 - Atendimento ao Cliente :white_check_mark:</h1>
 
 <p align="center">
-  <a href="#" target="_blank">
+  <a href="https://github.com/lucasrmagalhaes/nlw5-nodejs/blob/main/nlw5/public/images/Cliente.jpg" target="_blank">
     <img 
          src="https://github.com/lucasrmagalhaes/nlw5-nodejs/blob/main/nlw5/public/images/Cliente.jpg" 
          alt="Cliente" 
@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="#" target="_blank">
+  <a href="https://github.com/lucasrmagalhaes/nlw5-nodejs/blob/main/nlw5/public/images/Atendente.jpg" target="_blank">
     <img 
          src="https://github.com/lucasrmagalhaes/nlw5-nodejs/blob/main/nlw5/public/images/Atendente.jpg" 
          alt="Atendente" 
