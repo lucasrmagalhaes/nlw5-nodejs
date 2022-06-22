@@ -13,7 +13,7 @@
     "reflect-metadata": "^0.1.13",
     "socket.io": "^4.0.1",
     "socket.io-client": "^4.0.1",
-    "sqlite3": "^5.0.2",
+    "sqlite3": "^5.0.3",
     "typeorm": "^0.2.32",
     "uuid": "^8.3.2"
   },
